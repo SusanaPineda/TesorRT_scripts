@@ -3,3 +3,4 @@ resnet_FP32/
 ssd_resnet/
 .idea/
 __pycache__/
+dataset/
