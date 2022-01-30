@@ -1,3 +1,5 @@
-resnet_FP16
-resnet_FP32
-ssd_resnet
+resnet_FP16/
+resnet_FP32/
+ssd_resnet/
+.idea/
+__pycache__/
